@@ -21,7 +21,7 @@ A basic practice project to create a simple personal portfolio layout using HTML
 ## 👀 How to View
 
 ### 🔗 Live Preview
-[https://karthigap20.github.io/simple-portfolio-website/contact.html](#)  
+[Link](https://karthigap20.github.io/simple-portfolio-website/contact.html)  
 <!-- Replace # with your GitHub Pages or other live link -->
 
 ---
